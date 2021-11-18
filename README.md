@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @aurostre
-- 👀 I’m interested in open source scripting and security research
-- 🌱 I’m currently learning Rust and Bash
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: aurostre@protonmail.com
+Hi! I'm @aurostre, but you can call me Ashe.
 
-<!---
-aurostre/aurostre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I currently work for the Conejo Valley Unified School District. Most of my projects take the form of scripting (**PowerShell**, **Bash**, etc...). I specialize in **automation** and **system administration**. I'm actively studying **network engineering**, **security**, and **cloud virtualization**.
+
+I am primarily working with my existing team, but I am open to collaborating on open-source projects that benefit all technologists and users.
+
+If you would like to reach me, send an email to **aurostre@protonmail.com** and I'll get back to you as soon as I can.
+
+Thanks for reading!
